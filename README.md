@@ -1,5 +1,3 @@
-saarwe
-204175137 Saar Weitzman
 
 This program simulates access to the physical memory while using paging mechanism
 
